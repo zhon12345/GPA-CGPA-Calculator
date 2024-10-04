@@ -2,13 +2,15 @@
 
 This project is an assignment for the **AACS1074 Programming Concepts and Design I** course. The goal is to create a GPA/CGPA calculator for Kolej Pasar, helping students and staff easily compute academic scores.
 
+**Date submitted:** 15th September 2023
+
 ## Features
 
--   Staff Portal
+-   **📊 Staff Portal**
     -   Secure login system for staff members.
     -   Calculate GPA for individual semesters based on course grades and credit hours.
     -   Calculate the cumulative CGPA across all semesters.
--   Student Portal
+-   **📚 Student Portal**
     -   Secure login system for students.
     -   View GPA for each individual semesters.
     -   View overall CGPA for across all semesters.
@@ -56,7 +58,7 @@ Start the program
       $ pacman -S mingw-w64-ucrt-x86_64-gcc
     ```
 
--   **Online compilers or an IDEs:**
+-   **Online compilers or IDEs:**
 
     -   Online compilers: [Replit](https://replit.com/), [OnlineGDB](https://www.onlinegdb.com/)
 
